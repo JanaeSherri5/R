@@ -9,7 +9,7 @@
 ################################
 
 #Import Dataset
-LungCancer <- read.csv("/System/Volumes/Data/Users/janaesherrilogan/Library/CloudStorage/iCloud Drive/Documents/KSU M.S. Healthcare Management and Informatics/Summer 2019/HMI 7530 Data Analytics via R/Data/CANCERDATA.csv")
+LungCancer <- read.csv("CANCERDATA.csv")
 
 #Descriptive Statistics
 dim(LungCancer)
